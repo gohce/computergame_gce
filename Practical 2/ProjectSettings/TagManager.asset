@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Gems
+  - Enemy
+  - greenGems
+  - blueGems
+  - gameValue
   layers:
   - Default
   - TransparentFX
@@ -46,4 +51,13 @@ TagManager:
     locked: 0
   - name: Trees
     uniqueID: 3339872741
+    locked: 0
+  - name: Items
+    uniqueID: 3808468719
+    locked: 0
+  - name: UI
+    uniqueID: 3276143927
+    locked: 0
+  - name: Zombies
+    uniqueID: 1519618737
     locked: 0
